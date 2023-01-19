@@ -1,0 +1,39 @@
+/* Write your CSS code here. */
+
+.css-bg-container {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffc0bb;
+}
+
+.css-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  width: 600px;
+}
+.css-ul-container {
+  list-style-type: none;
+  display: flex;
+}
+
+.css-emoji-itself {
+  width: 30px;
+}
+
+.css-list-itself {
+}
+
+.css-button-itself {
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  background-color: transparent;
+  border-width: 0;
+}
